@@ -1,0 +1,10 @@
+.header{
+    background-color: lightblue;
+    background-image: -o-repeating-linear-gradient();
+}
+.imgH{
+    margin-left:0;
+    height:180px;    
+    background-repeat: repeat-x;
+}
+
