@@ -31,4 +31,9 @@
     height:180px;    
     background-repeat: repeat-x;
 }
+h1{
+    margin: 10px;
+    text-decoration: solid;
+    font-style: bold;
+}
 
