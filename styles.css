@@ -54,9 +54,26 @@ a{
     width:670px;
 }
 .tim2{
-    width: 600px;
+    width: 570px;
 }
 ul{
     margin-left: 20px;
     text-decoration-style: double;
+}
+
+h3 {
+    font-weight: 300px;
+}
+
+table{
+    width: 100%;
+    margin: 10px;
+}
+
+table tr:first-child{
+    height: 20px;
+    background-color: rgb(13, 115, 204);
+}
+table tr{
+    height: 50px;
 }
