@@ -65,15 +65,27 @@ h3 {
     font-weight: 300px;
 }
 
-table{
-    width: 100%;
-    margin: 10px;
-}
-
-table tr:first-child{
-    height: 20px;
-    background-color: rgb(13, 115, 204);
-}
 table tr{
     height: 50px;
 }
+
+table{
+    column-rule-color: none;
+}
+
+.colore-blu{
+    background-color: rgb(59, 154, 236);
+}
+
+.primo{
+    height: 20px;
+    background-color: rgb(14, 14, 211);
+}
+
+table tr td:last-child{
+    width: 40%;
+}
+
+table, th, td {
+    border-collapse: collapse;
+  }
