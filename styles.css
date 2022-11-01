@@ -32,7 +32,9 @@
     background-repeat: repeat-x;
 }
 .body{
-    margin: 10px;
+    margin:auto;
+    border: auto;
+    padding: auto;
 
 }
 h1{
