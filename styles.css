@@ -18,7 +18,7 @@
     margin:0px;
     padding:0px;
     margin:0px;
-    position: fixed; 
+    position: absolute; 
     top: 120px; 
     left: 10px;
     
@@ -31,9 +31,20 @@
     height:180px;    
     background-repeat: repeat-x;
 }
-h1{
+.body{
     margin: 10px;
+
+}
+h1{
+
     text-decoration: solid;
     font-style: bold;
 }
-
+h5{
+    color: grey;
+}
+a{
+    color: lightblue;
+    font-style: normal;
+    text-decoration: none;
+}
